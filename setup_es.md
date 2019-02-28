@@ -9,7 +9,7 @@ Para instalar Julia y Jupyter localmente en sus computadoras, se siguen los sigu
 
 [Nota que *no* es necesario instalar Anaconda de manera separada; Julia hará esto por ti.]
 
-1. Descarga e instala la versión estable de Julia (1.0.3) desde [aquí](http://www.julialang.org/downloads) para el sistema operativo que uses.
+1. Descarga e instala la versión estable de Julia (1.1) desde [aquí](http://www.julialang.org/downloads) para el sistema operativo que uses.
 
 2. Corre la copia de Julia que instalaste.
 
